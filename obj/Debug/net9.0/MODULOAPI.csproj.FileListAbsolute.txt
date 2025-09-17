@@ -1,0 +1,8 @@
+C:\Users\dedev\OneDrive\Documentos\MODULOAPI\obj\Debug\net9.0\MODULOAPI.csproj.AssemblyReference.cache
+C:\Users\dedev\OneDrive\Documentos\MODULOAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\dedev\OneDrive\Documentos\MODULOAPI\obj\Debug\net9.0\MODULOAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dedev\OneDrive\Documentos\MODULOAPI\obj\Debug\net9.0\MODULOAPI.AssemblyInfoInputs.cache
+C:\Users\dedev\OneDrive\Documentos\MODULOAPI\obj\Debug\net9.0\MODULOAPI.AssemblyInfo.cs
+C:\Users\dedev\OneDrive\Documentos\MODULOAPI\obj\Debug\net9.0\MODULOAPI.csproj.CoreCompileInputs.cache
+C:\Users\dedev\OneDrive\Documentos\MODULOAPI\obj\Debug\net9.0\MODULOAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dedev\OneDrive\Documentos\MODULOAPI\obj\Debug\net9.0\MODULOAPI.MvcApplicationPartsAssemblyInfo.cache
